@@ -1,0 +1,54 @@
+   
+nav{
+    padding-top: 11mm;
+    padding-bottom: 21mm;
+}
+.list{
+    list-style: none;
+    text-align: center;
+}
+
+.list_item{
+    display: inline;
+    font-size: 14pt;
+    margin: 20mm; 
+    
+}
+
+.list_item:hover{
+    color:#03a9f4;
+}
+
+.list1{
+display: block;
+margin-left: 100px;
+}
+
+.list1_items{
+    display: block;
+    float: left;
+    width: 50%;
+    
+}
+
+
+img{
+width: 420px;
+}
+
+p{
+width: 420px;
+
+}
+.text-h2{
+    
+}
+
+footer{ 
+    text-align: center;
+}
+
+button{
+    width: 160px;
+    height: 60px;
+}
